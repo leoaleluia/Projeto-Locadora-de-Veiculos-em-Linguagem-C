@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "teste1.h"
+#include "clientes.h"
 
 int main(){
-    printf("soma %d", soma(20, 20));
-}
+    listarCliente();    
+}   
